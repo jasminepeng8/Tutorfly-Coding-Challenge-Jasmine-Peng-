@@ -1,2 +1,2 @@
-# Tutorfly-Coding-Challenge-Jasmine-Peng-
+# Simple-Calculator
 Creation of a simple calculator using React 
