@@ -1,4 +1,4 @@
 # Simple-Calculator
 Simple calculator. Built with ReactJS
 
-https://zen-noether-880292.netlify.app/
+https://simple-calculator-0.netlify.app/
