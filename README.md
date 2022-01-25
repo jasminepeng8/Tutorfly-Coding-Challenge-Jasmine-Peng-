@@ -1,4 +1,4 @@
 # Simple-Calculator
-Simple calculator. Built with ReactJS
+simple calculator. reactJS
 
 https://simple-calculator-0.netlify.app/
